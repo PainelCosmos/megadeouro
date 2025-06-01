@@ -1,2 +1,0 @@
-faca essse script pra mim https://megadeouro.vercel.app/
-adapta ele pra hospedar no vercel
