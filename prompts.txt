@@ -1,0 +1,6 @@
+faca uma aba de transferencia pro meu grupo do discord, faca uma area onde somente eu possa alterar o link do grupo, adicione algo que capture o ip dos membros e uma aba com um painel de acesso somente meu, para que eu possa ver o ip de alguem que entrou no meu grupo do discord!!
+agora mude discord group transfer para, RM Unity e  coloque a senha do admin como Jhzinho123$ e faca um processo real de captura de ip, quero as informacoes certinhas, e faca ele colocar os membros e today reais do server, e nao algo ficticio, faca em portugues
+muda o copiar link para um botao de entrar, e tira esse aviso de seguranca ai
+tira esse nome link de convite do grupo e substitui por entre no nosso grupo ou algo assim, e esconde o link do grupo, deixa so o botao de entrar e quando eu modificar o link ele ficar so no botao de entrar
+quando eu mudo o link, nao muda e contimua o antigo, resolva isso, e tambem melhore a captura de ip, quero ips reais!!
+mude o link de convite para https://discord.gg/JRWnCyCux6
